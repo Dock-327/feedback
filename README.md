@@ -10,8 +10,14 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/stage-private%20test-3668FF" alt="Stage: private test">
-  <img src="https://img.shields.io/badge/builds%20expire-18%20Feb%202027-A24100" alt="Builds expire 18 February 2027">
+  <img src="assets/badge-stage.svg" alt="Stage: private test">
+  <img src="assets/badge-expiry.svg" alt="Builds expire 18 February 2027">
+</p>
+
+<p align="center">
+  <img src="assets/start-page.png" alt="Mock-up of the Dock327 start page: a fleet sidebar, a search box and tiles for local tools, SSH, Telnet and serial targets" width="100%">
+  <br>
+  <sub>Mock-up with sample data. The app may look different.</sub>
 </p>
 
 This is the place to report bugs and suggest ideas. It holds no source code.
